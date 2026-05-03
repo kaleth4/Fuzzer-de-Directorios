@@ -1,4 +1,4 @@
-# **README.md - Fuzzer de Directorios desde Básico a Profesional**
+# Fuzzer de Directorios desde Básico a Profesional**
 
 ---
 
@@ -119,7 +119,7 @@ dashboard
 ---
 
 ## **📌 Créditos**
-- **Autor**: [Tu nombre o equipo]
+- **Autor**: Kaleth
 - **Librerías**:
   - `requests` (HTTP requests).
   - `tqdm` (barras de progreso).
@@ -127,4 +127,4 @@ dashboard
 
 ---
 **🔄 Versión**: 1.0 (Profesional)
-**📅 Fecha**: [DD/MM/AAAA]
+**📅 Fecha**: [02/04/2026
